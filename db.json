@@ -1,0 +1,57 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed Screen",
+      "tech": "John",
+      "attention": false,
+      "date": "2020-04-08T22:28:20.478Z"
+    },
+    {
+      "id": 2,
+      "message": "Hard drive on fire",
+      "tech": "Courtney Act",
+      "attention": false,
+      "date": "2020-04-09T01:06:29.676Z"
+    },
+    {
+      "id": 3,
+      "message": "Teste",
+      "tech": "Norman",
+      "attention": true,
+      "date": "2020-04-08T22:28:26.030Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "Harley",
+      "lastName": "Queen"
+    },
+    {
+      "id": 3,
+      "firstName": "Norman",
+      "lastName": "Bates"
+    },
+    {
+      "firstName": "Eduardo",
+      "lastName": "Fridryszewski",
+      "id": 4
+    },
+    {
+      "firstName": "Courtney",
+      "lastName": "Act",
+      "id": 6
+    },
+    {
+      "firstName": "Ru",
+      "lastName": "Paul",
+      "id": 8
+    }
+  ]
+}
